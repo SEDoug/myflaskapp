@@ -4,7 +4,7 @@ def Articles():
             'id': 1,
             'title': 'Article One',
             'body': 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad architecto autem commodi corporis doloribus eveniet expedita laudantium minus molestiae, nihil obcaecati, quae, rerum sed suscipit unde. Aspernatur harum optio quaerat',
-            'author': 'Doug MacGregor',
+            'author': 'Doug M',
             'create_date': '09-15-2017'
         },
         {
